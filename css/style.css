@@ -1847,3 +1847,9 @@ a.b-home:hover{
 		padding-bottom: 8px;
 	}
 }
+
+
+.lang{
+	float: right;
+	margin:25px 40px 0 0;
+}
